@@ -1,0 +1,5 @@
+Test Wifi: Test
+Test Wifi Password: 12345678
+
+Pi SSH: admin
+Pi SSH: Login: admin
